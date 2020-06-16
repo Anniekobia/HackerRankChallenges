@@ -1,3 +1,5 @@
+package Random;
+
 import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
 
 import java.lang.reflect.Array;
